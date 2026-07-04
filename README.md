@@ -97,8 +97,8 @@
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WolfAnxo&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WolfAnxo&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180px"/>
 </p>
 
 ---
