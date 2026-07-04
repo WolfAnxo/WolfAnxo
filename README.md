@@ -5,12 +5,17 @@
 </p>
 
 <p align="center">
+  <!-- Botón de LINKEDIN con estética neón ciberespacio -->
   <a href="https://www.linkedin.com/in/anxopb/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" height="35"/>
+    <img src="https://i.ibb.co/vzP7C8v/linkedin-neon-button.png" alt="LinkedIn Profile" height="60"/>
   </a>
-  &nbsp;&nbsp;
+  
+  <!-- Espaciado entre botones -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Botón de EMAIL con estética neón ciberespacio -->
   <a href="mailto:anxopenablanco@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" height="35"/>
+    <img src="https://i.ibb.co/M9F7X5C/email-neon-button.png" alt="Send Email" height="60"/>
   </a>
 </p>
 
