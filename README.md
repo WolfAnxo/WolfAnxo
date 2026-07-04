@@ -1,12 +1,12 @@
 # ¡Hola! Soy Anxo Pena 🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Anxo%20Pena&subtitle=Software%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&fontSize=40&theme=dark" alt="Banner Principal" />
+  <img src="http://googleusercontent.com/image_generation_content/303" alt="Banner Principal" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/anxopb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="anxopenablanco@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
