@@ -1,8 +1,7 @@
 # ¡Hola! Soy Anxo Pena 🚀
 
 <p align="center">
-  <img src="<img width="1791" height="592" alt="banner" src="https://github.com/user-attachments/assets/35bb7990-0eed-465c-8f91-6d1e31311942" />
-" alt="Banner Principal" />
+  <img src="https://github.com/user-attachments/assets/e63e0100-a835-4d3a-9a8c-b1f3d67f6dcb" alt="Banner Principal" width="100%" />
 </p>
 
 <p align="center">
