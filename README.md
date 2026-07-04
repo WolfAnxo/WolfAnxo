@@ -8,9 +8,7 @@
   <a href="https://www.linkedin.com/in/anxopb/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" height="35"/>
   </a>
-  
   &nbsp;&nbsp;
-
   <a href="mailto:anxopenablanco@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" height="35"/>
   </a>
