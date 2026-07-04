@@ -5,17 +5,12 @@
 </p>
 
 <p align="center">
-  <!-- Botón de LinkedIn Futurista -->
   <a href="https://www.linkedin.com/in/anxopb/" target="_blank">
-    <img src="https://i.ibb.co/L5V0018/linkedin-futuristic-button.png" alt="LinkedIn Premium Button" height="40"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" height="35"/>
   </a>
-  
-  <!-- Espaciado entre botones -->
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Botón de Email Futurista -->
+  &nbsp;&nbsp;
   <a href="mailto:anxopenablanco@gmail.com">
-    <img src="https://i.ibb.co/fQ75718/email-futuristic-button.png" alt="Email Premium Button" height="40"/>
+    <img src="https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" height="35"/>
   </a>
 </p>
 
