@@ -63,7 +63,7 @@
         <img src="https://img.shields.io/badge/Apache-Kafka-black" alt="Kafka">
         <img src="https://img.shields.io/badge/PostgreSQL-Database-blue" alt="Postgres">
       </p>
-      <a href="https://github.com/TU_USUARIO/NotifyHub">Ver Repositorio →</a>
+      <a href="https://github.com/WolfAnxo/NotifyHub">Ver Repositorio →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📊 Smart Finance Analyzer Pro</h3>
@@ -73,8 +73,22 @@
         <img src="https://img.shields.io/badge/Pandas-Analysis-purple" alt="Pandas">
         <img src="https://img.shields.io/badge/Streamlit-UI-red" alt="Streamlit">
       </p>
-      <a href="https://github.com/TU_USUARIO/Smart-Finance-Analyzer">Ver Repositorio →</a>
+      <a href="https://github.com/WolfAnxo/Smart-Finance-Analyzer">Ver Repositorio →</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 SyncBeat</h3>
+      <p>Aplicación multiplataforma / servicio diseñado para la sincronización eficiente y gestión fluida de flujos de datos musicales o eventos en tiempo real.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-Data-blue" alt="Python">
+        <img src="https://img.shields.io/badge/Pandas-Analysis-purple" alt="Pandas">
+        <img src="https://img.shields.io/badge/Logic-Business-orange" alt="Logic">
+      </p>
+      <a href="https://github.com/WolfAnxo/SyncBeat">Ver Repositorio →</a>
+    </td>
+    <td width="50%" valign="top">
+      </td>
   </tr>
 </table>
 
