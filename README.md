@@ -20,8 +20,7 @@
 
 ¡Hola! Soy un **Desarrollador de Software** enfocado en construir aplicaciones eficientes, robustas y escalables. Me apasiona la intersección entre el desarrollo backend, la gestión inteligente de datos y las soluciones basadas en Inteligencia Artificial.
 
-* 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** y especializándome en **IA y Big Data**.
-* 🧠 Actualmente explorando el potencial de los modelos de IA aplicados a la automatización de procesos y el análisis de datos.
+* 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
 * 🇪🇸 / 🌐 Hablo Español, Galego e Inglés.
 
 ---
